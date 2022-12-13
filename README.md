@@ -2,7 +2,7 @@ I'm Alexander Tin, a reporter for CBS News covering federal responses to COVID-1
 
 In order to find a new home for posting [notes](https://github.com/tinalexander/notes) that I've been taking, I'm trying to learn how to use GitHub.
 
-Here are some places where you can find me:
+Here are some other places where you can find me:
 
 - Articles: https://www.google.com/search?q=%22By+Alexander+Tin%22+site%3Acbsnews.com%2F
 - Email: TinA@CBSNews.com
