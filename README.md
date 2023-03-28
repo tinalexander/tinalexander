@@ -7,7 +7,7 @@ Here are some other places where you can find me:
 - Articles: https://www.google.com/search?q=%22By+Alexander+Tin%22+site%3Acbsnews.com%2F
 - Email: TinA@CBSNews.com
 - LinkedIn: https://www.linkedin.com/in/alextin/
-- Mastodon: <a rel="me" href="https://journa.host/@alexander_tin">https://journa.host/@alexander_tin</a>
+- Mastodon<a rel="me" href="https://journa.host/@alexander_tin">:</a> https://journa.host/@alexander_tin
 - Reddit: https://www.reddit.com/user/alexander_sn
 - Post: https://post.news/@/alexander_tin
 - Twitter: https://twitter.com/Alexander_Tin
