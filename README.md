@@ -9,8 +9,9 @@ Here are some other places where you can find me:
 - LinkedIn: https://www.linkedin.com/in/alextin/
 - Mastodon: <a rel="me" href="https://journa.host/@alexander_tin">https://journa.host/@alexander_tin</a>
 - Reddit: https://www.reddit.com/user/alexander_sn
-- Post: https://post.news/alexander_tin
+- Post: https://post.news/@/alexander_tin
 - Twitter: https://twitter.com/Alexander_Tin
+- Spoutible: https://spoutible.com/alexander_tin
 
 You can also text or call me at this phone number: 202-381-7107
 
