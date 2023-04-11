@@ -12,7 +12,7 @@ Here are some other places where you can find me:
 - Post: https://post.news/@/alexander_tin
 - Twitter: https://twitter.com/Alexander_Tin
 - Spoutible: https://spoutible.com/alexander_tin
-- Substack: https://substack.com/profile/462966-alexander-tin
+- Substack: https://substack.com/profile/10080259-alexander-tin
 
 You can also text or call me at this phone number: 202-381-7107
 
