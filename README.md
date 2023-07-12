@@ -48,7 +48,7 @@ Here are some recent articles I've worked on so far this year. You can also find
 - [U.S., Mexico ask WHO for emergency declaration over deadly fungal outbreak](https://www.cbsnews.com/news/us-mexico-fungal-outbreak-meningitis-who-health-emergency-request/)
 - [COVID hospitalizations reach new record low nationwide, CDC says](https://www.cbsnews.com/news/covid-hospitalizations-record-low-nationwide-cdc/)
 - [Pfizer's Paxlovid still free, for now, after FDA grants full approval to COVID drug](https://www.cbsnews.com/news/pfizers-paxlovid-fda-approval-cost/)
-- [CDC reports more mpox cases as authorities brace for summer resurgence](CDC reports more mpox cases as authorities brace for summer resurgence)
+- [CDC reports more mpox cases as authorities brace for summer resurgence](https://www.cbsnews.com/news/cdc-mpox-cases-summer-resurgence/)
 - [HIV infections continued to slow nationwide in 2021, CDC reports](https://www.cbsnews.com/news/hiv-infections-2021-cdc-report/)
 - [Contaminated eye drops outbreak climbs to 81 cases, 4 deaths](https://www.cbsnews.com/news/contaminated-eye-drops-recall-outbreak-4-deaths/)
 - [First RSV vaccine to protect infants wins backing of FDA panel](https://www.cbsnews.com/news/fda-rsv-vaccine-to-protect-infants-pfizer/)
