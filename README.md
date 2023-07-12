@@ -108,3 +108,10 @@ Here are some recent articles I've worked on so far this year. You can also find
 - [COVID-19 vaccines and treatments could go to private market this summer, White House official says](https://www.cbsnews.com/news/covid-vaccine-treatment-private-market-white-house-official-says/)
 
 ### January 2023
+
+- [FDA advisers vote to simplify COVID vaccines, retire original "monovalent" shots](https://www.cbsnews.com/news/covid-vaccine-fda-advisers-vote-to-simplify-retire-monovalent-shots/)
+- [Heart-related deaths rose sharply during first year of COVID-19 pandemic, report shows](https://www.cbsnews.com/news/heart-related-deaths-covid-19/)
+- [U.S. investigating first cases of "concerning" new drug-resistant gonorrhea strain](https://www.cbsnews.com/news/massachusetts-concerning-new-drug-resistant-gonorrhea-strain/)
+- [Kindergarten routine vaccination rates fell for second straight year, CDC warns](https://www.cbsnews.com/news/kindergarten-routine-vaccination-rates-fell-for-second-straight-year-cdc-warns/)
+- [COVID-19 vaccines: From nasal drops to a redesign, what 2023 could have in store](https://www.cbsnews.com/news/covid-19-vaccines-nasal-sprays-pills-breakthroughs-2023/)
+- [CDC tracking rapid rise of new XBB.1.5 COVID variant, not yet a majority nationwide](https://www.cbsnews.com/news/covid-variant-xbb-1-5-cdc-tracking-us-cases-dominant-strain/)
