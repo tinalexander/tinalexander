@@ -11,15 +11,15 @@ Here are some places where you can find me actively:
 
 I've also signed up for accounts here:
 
+- Instagram: https://www.instagram.com/alexander_a_tin/
 - Mastodon<a rel="me" href="https://journa.host/@alexander_tin">:</a> https://journa.host/@alexander_tin
-- Reddit: https://www.reddit.com/user/alexander_sn
 - Post: https://post.news/@/alexander_tin
+- Reddit: https://www.reddit.com/user/alexander_sn
 - Spoutible: https://spoutible.com/alexander_tin
 - Substack: https://substack.com/profile/10080259-alexander-tin
-- Instagram: https://www.instagram.com/alexander_a_tin/
 - Threads: https://www.threads.net/@alexander_a_tin
 
-Contact me at TinA@CBSNews.com, text or call 202-381-7107, or ask me what number I use for [Signal](https://signal.org/).
+Contact me at TinA@CBSNews.com, text/call 202-381-7107 or ask me what number I use for [Signal](https://signal.org/).
 
 ---
 
