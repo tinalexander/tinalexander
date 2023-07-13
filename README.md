@@ -27,6 +27,7 @@ Here are some recent articles I've worked on so far this year. You can also find
 
 ### July 2023
 
+- [Nearly 1 in 10 U.S. children have been diagnosed with a developmental disability, CDC reports](https://www.cbsnews.com/news/children-diagnosed-developmental-disability-autism-cdc-reports/)
 - [House GOP chair accuses HHS of "changing their story" on NIH reappointments snafu](https://www.cbsnews.com/news/hhs-national-institutes-of-health-reappointments-snafu-house-republicans/)
 - [Deer spread COVID to humans multiple times, new research suggests](https://www.cbsnews.com/news/covid-19-spread-from-deer/)
 - [Billions in NIH grants could be jeopardized by appointments snafu, Republicans say](https://www.cbsnews.com/news/hhs-national-institutes-of-health-appointments-house-republicans/)
