@@ -27,6 +27,10 @@ Here are some recent articles I've worked on so far this year. You can also find
 
 ### July 2023
 
+- [U.S. COVID hospitalizations climb for second straight week. Is it a summer surge?](https://www.cbsnews.com/news/covid-hospitalizations-rise-second-week-summer-surge/)
+- [First long COVID treatment clinical trials from NIH getting underway](https://www.cbsnews.com/news/first-long-covid-treatment-clinical-trial-nih/)
+- [Up to 450,000 in U.S. have red meat allergies due to alpha-gal syndrome spread by ticks, CDC says](https://www.cbsnews.com/news/alpha-gal-red-meat-allergy-lone-star-tick-bites-cdc/)
+- [FDA approves new drug to protect babies from RSV](https://www.cbsnews.com/news/fda-approves-drug-protect-babies-from-rsv/)
 - [Nearly 1 in 10 U.S. children have been diagnosed with a developmental disability, CDC reports](https://www.cbsnews.com/news/children-diagnosed-developmental-disability-autism-cdc-reports/)
 - [House GOP chair accuses HHS of "changing their story" on NIH reappointments snafu](https://www.cbsnews.com/news/hhs-national-institutes-of-health-reappointments-snafu-house-republicans/)
 - [Deer spread COVID to humans multiple times, new research suggests](https://www.cbsnews.com/news/covid-19-spread-from-deer/)
