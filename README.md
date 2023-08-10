@@ -1,6 +1,6 @@
 I'm Alexander Tin, a reporter for CBS News covering federal responses to COVID-19 and some other public health issues.
 
-In order to find a new home for posting [notes](https://github.com/tinalexander/notes/wiki) that I've been taking, I've started to use Github.
+In order to find a new home for posting [notes](https://tinalexander.github.io/notes-by-alexander-tin/) that I've been taking, I've started to use Github.
 
 ---
 
