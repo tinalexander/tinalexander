@@ -19,7 +19,9 @@ I've also signed up for accounts here:
 - Substack: https://substack.com/profile/10080259-alexander-tin
 - Threads: https://www.threads.net/@alexander_a_tin
 
-Contact me at TinA@CBSNews.com, text/call 202-381-7107 or ask me what number I use for [Signal](https://signal.org/).
+Contact me at TinA@CBSNews.com or text/call 202-381-7107.
+
+If you'd like to reach me on [Signal](https://signal.org/) or [WhatsApp](https://www.whatsapp.com/), please ask me for the separate number I use for those services.
 
 ---
 
