@@ -1,8 +1,6 @@
 ## About me
 
-I'm Alexander Tin, a reporter for CBS News covering federal responses to COVID-19 and some other public health issues.
-
-In order to find a new home for posting [notes](https://github.com/tinalexander/notes) that I've been taking, I've started to use Github.
+I'm Alexander Tin, a reporter for CBS News covering federal responses to COVID-19 and some other public health issues. In order to find a new home for posting [notes](https://github.com/tinalexander/notes) that I've been taking, I've started to use Github.
 
 Contact me at TinA@CBSNews.com or text/call 202-381-7107.
 
