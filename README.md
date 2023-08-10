@@ -1,10 +1,16 @@
+## About me
+
 I'm Alexander Tin, a reporter for CBS News covering federal responses to COVID-19 and some other public health issues.
 
 In order to find a new home for posting [notes](https://github.com/tinalexander/notes) that I've been taking, I've started to use Github.
 
----
+Contact me at TinA@CBSNews.com or text/call 202-381-7107.
 
-Here are some places where you can find me actively:
+If you'd like to reach me on [Signal](https://signal.org/) or [WhatsApp](https://www.whatsapp.com/), please ask me for the separate number I use for those services.
+
+## Other websites
+
+Here are some other places where you can find me actively:
 
 - Twitter: https://twitter.com/Alexander_Tin
 - LinkedIn: https://www.linkedin.com/in/alextin/
@@ -19,11 +25,7 @@ I've also signed up for accounts here:
 - Substack: https://substack.com/profile/10080259-alexander-tin
 - Threads: https://www.threads.net/@alexander_a_tin
 
-Contact me at TinA@CBSNews.com or text/call 202-381-7107.
-
-If you'd like to reach me on [Signal](https://signal.org/) or [WhatsApp](https://www.whatsapp.com/), please ask me for the separate number I use for those services.
-
----
+## Recent articles
 
 Here are some recent articles I've worked on so far this year. You can also find them [by Googling](https://www.google.com/search?q=%22By+Alexander+Tin%22+site%3Acbsnews.com%2F) me.
 
