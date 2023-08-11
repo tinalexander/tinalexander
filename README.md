@@ -23,4 +23,4 @@ I've also signed up for accounts here:
 - Substack: https://substack.com/profile/10080259-alexander-tin
 - Threads: https://www.threads.net/@alexander_a_tin
 
-You can see a list of some articles I've written [here](https://tinalexander.github.io/notes/articles).
+You can see a list of some articles I've written [here](https://tinalexander.github.io/notes/2023/articles).
