@@ -11,8 +11,8 @@ If you'd like to reach me securely on [Signal](https://signal.org/) or [WhatsApp
 Here are some other places where you can find me actively:
 
 - Twitter: https://twitter.com/Alexander_Tin
-- LinkedIn: https://www.linkedin.com/in/alextin/
 - Threads: https://www.threads.net/@alexander_a_tin
+- LinkedIn: https://www.linkedin.com/in/alextin/
 
 I've also signed up for accounts here:
 
