@@ -11,6 +11,7 @@ If you'd like to reach me securely on [Signal](https://signal.org/) or [WhatsApp
 Here are some other places where you can find me actively:
 
 - Twitter: https://twitter.com/Alexander_Tin
+- Threads: https://www.threads.net/@alexander_a_tin
 
 I've also signed up for accounts here, though am not updating them frequently:
 
@@ -21,6 +22,5 @@ I've also signed up for accounts here, though am not updating them frequently:
 - Reddit: https://www.reddit.com/user/alexander_sn
 - Spoutible: https://spoutible.com/alexander_tin
 - Substack: https://substack.com/profile/10080259-alexander-tin
-- Threads: https://www.threads.net/@alexander_a_tin
 
 You can see a list of some articles I've written [here](https://tinalexander.github.io/notes/2023/articles).
