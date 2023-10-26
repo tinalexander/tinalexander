@@ -8,7 +8,7 @@ I can also be reached securely on [Signal](https://signal.org/) or [WhatsApp](ht
 
 ## Other websites
 
-Here are some other places where you can find me actively:
+Here are some websites where you can find me posting actively:
 
 - Twitter: https://twitter.com/Alexander_Tin
 - Threads: https://www.threads.net/@alexander_a_tin
