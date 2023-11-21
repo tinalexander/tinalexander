@@ -10,12 +10,12 @@ I can also be reached securely on [Signal](https://signal.org/) or [WhatsApp](ht
 
 Here are some websites where you can find me posting actively:
 
-- Twitter: [https://twitter.com/Alexander_Tin](https://twitter.com/Alexander_Tin)
+- BlueSky: [https://bsky.app/profile/alexander-a-tin.bsky.social](https://bsky.app/profile/alexander-a-tin.bsky.social)
 - Threads: [https://www.threads.net/@alexander_a_tin](https://www.threads.net/@alexander_a_tin)
+- Twitter: [https://twitter.com/Alexander_Tin](https://twitter.com/Alexander_Tin)
 
 I've also signed up for accounts here, though am not updating them frequently:
 
-- BlueSky: [https://bsky.app/profile/alexander-a-tin.bsky.social](https://bsky.app/profile/alexander-a-tin.bsky.social)
 - Instagram: [https://www.instagram.com/alexander_a_tin/](https://www.instagram.com/alexander_a_tin/)
 - LinkedIn: [https://www.linkedin.com/in/alextin/](https://www.linkedin.com/in/alextin/)
 - Mastodon<a rel="me" href="https://journa.host/@alexander_tin">:</a> [https://journa.host/@alexander_tin](https://journa.host/@alexander_tin)
