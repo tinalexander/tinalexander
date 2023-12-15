@@ -1,10 +1,10 @@
 ## About me
 
-I'm Alexander Tin, a reporter for CBS News based out of our Washington bureau covering federal public health agencies. In order to find a new home for posting [notes](https://tinalexander.github.io/notes/) that I've been taking, I've started to use Github.
+Contact me directly by email at [TinA@CBSNews.com](mailto:TinA@CBSNews.com) or cell phone at +1 202-381-7107. 
 
-Contact me by email at [TinA@CBSNews.com](mailto:TinA@CBSNews.com) or text/call +1 202-381-7107. 
+Need to reach me securely? Send me a [Signal](https://signal.org/) or [WhatsApp](https://www.whatsapp.com/) message at +1 202-817-6133.
 
-I can also be reached securely on [Signal](https://signal.org/) or [WhatsApp](https://www.whatsapp.com/), though I use a different phone number there. Please ask me for that number if you're interested in contacting me there.
+Alexander Tin is a staff digital reporter for CBS News covering the Biden administration's public health agencies. Previously, he was a campaign reporter for CBS News covering races for the 2020 cycle in Nevada, California, Arizona and New Mexico.
 
 ## Other websites
 
