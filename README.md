@@ -1,8 +1,6 @@
 ## About me
 
-Contact me directly by email at [TinA@CBSNews.com](mailto:TinA@CBSNews.com) or cell phone at +1 202-381-7107. 
-
-Need to reach me securely? Send me a [Signal](https://signal.org/) or [WhatsApp](https://www.whatsapp.com/) message at +1 202-817-6133.
+Contact me directly by email at [TinA@CBSNews.com](mailto:TinA@CBSNews.com) or cell phone at +1 202-381-7107. Need to reach me securely? I use a different number (+1 202-817-6133) on [Signal](https://signal.org/) and [WhatsApp](https://www.whatsapp.com/).
 
 Alexander Tin is a staff digital reporter for CBS News covering the Biden administration's public health agencies. Previously, he was a campaign reporter for CBS News covering races for the 2020 cycle in Nevada, California, Arizona and New Mexico.
 
