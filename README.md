@@ -4,7 +4,7 @@ Contact me directly by email at [TinA@CBSNews.com](mailto:TinA@CBSNews.com) or c
 
 Alexander Tin is a staff digital reporter for CBS News covering the Biden administration's public health agencies. Previously, he was a campaign reporter for CBS News covering races for the 2020 cycle in Nevada, California, Arizona and New Mexico.
 
-## Other websites
+## Other places you can find me
 
 Here are some websites where you can find me posting actively:
 
