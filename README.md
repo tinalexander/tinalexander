@@ -8,7 +8,7 @@ Contact me directly by email at [TinA@CBSNews.com](mailto:TinA@CBSNews.com) or c
 
 ## Why I'm on Github
 
-I'm not a programmer, but Github has still been useful for staying up to date with experts in my beat about everything from [variants](https://github.com/neherlab/SARS-CoV-2_variant-reports/) to [disease forecasting](https://github.com/reichlab/covid19-forecast-hub). I also use it to keep [notes](https://tinalexander.github.io/notes/) about what I'm covering. 
+I'm not a programmer, but Github has still been useful for staying up to date with experts in my beat about everything from [SARS-CoV-2 variants](https://github.com/neherlab/SARS-CoV-2_variant-reports/) to [disease forecasting](https://github.com/reichlab/covid19-forecast-hub). I also use it to keep [notes](https://tinalexander.github.io/notes/) about what I'm covering. 
 
 ## Other places you can find me
 
