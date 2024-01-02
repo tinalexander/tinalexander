@@ -4,7 +4,9 @@ Alexander Tin is a staff digital reporter for CBS News covering the Biden admini
 
 ## How to get in touch
 
-Contact me directly by email at [TinA@CBSNews.com](mailto:TinA@CBSNews.com) or cell phone at +1 202-381-7107. Need to reach me securely? I use a different number (+1 202-817-6133) on [Signal](https://signal.org/) and [WhatsApp](https://www.whatsapp.com/).
+Contact me directly by email at [TinA@CBSNews.com](mailto:TinA@CBSNews.com) or cell phone at +1 202-381-7107. 
+
+Need to reach me securely? I use a different number (+1 202-817-6133) specifically for [Signal](https://signal.org/) and [WhatsApp](https://www.whatsapp.com/).
 
 ## Why I'm on Github
 
