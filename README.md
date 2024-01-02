@@ -1,6 +1,6 @@
 ## About me
 
-Alexander Tin is a staff digital reporter for CBS News covering the Biden administration's public health agencies. Previously, he was a campaign reporter for CBS News covering races for the 2020 cycle in Nevada, California, Arizona and New Mexico.
+Alexander Tin is a staff digital reporter for CBS News covering the Biden administration's public health agencies based out of the network's Washington, D.C. bureau. Previously, he was a campaign reporter for CBS News covering races for the 2020 cycle in Nevada, California, Arizona and New Mexico.
 
 ## How to get in touch
 
