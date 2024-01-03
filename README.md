@@ -8,6 +8,8 @@ Contact me directly by email at [TinA@CBSNews.com](mailto:TinA@CBSNews.com) or c
 
 Need to reach me securely? I use a different number (+1 202-817-6133) specifically for [Signal](https://signal.org/) and [WhatsApp](https://www.whatsapp.com/).
 
+If you need to tell me something anonymously, I will respect your request. The Associated Press has [some useful examples](https://www.ap.org/about/news-values-and-principles/telling-the-story/anonymous-sources) for how anonymous sourcing works.
+
 ## Why I'm on Github
 
 I'm not a programmer, but Github has still been useful for staying up to date with experts in my beat about everything from [SARS-CoV-2 variants](https://github.com/neherlab/SARS-CoV-2_variant-reports/) to [disease forecasting](https://github.com/reichlab/covid19-forecast-hub). I also use it to keep [notes](https://tinalexander.github.io/notes/) about what I'm covering. 
