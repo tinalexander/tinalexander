@@ -8,7 +8,7 @@ Contact me directly by email at [TinA@CBSNews.com](mailto:TinA@CBSNews.com) or c
 
 Need to reach me securely? I use a different number (+1 202-817-6133) specifically for [Signal](https://signal.org/) and [WhatsApp](https://www.whatsapp.com/).
 
-If you need to tell me something anonymously, I will respect your request. The Associated Press has [some useful examples](https://www.ap.org/about/news-values-and-principles/telling-the-story/anonymous-sources) for how anonymous sourcing works in reporting out stories.
+If you need to tell me something anonymously, I will respect your request. The Associated Press has [some useful details](https://www.ap.org/about/news-values-and-principles/telling-the-story/anonymous-sources) about how anonymous sourcing works in reporting out stories.
 
 ## Why I'm on Github
 
