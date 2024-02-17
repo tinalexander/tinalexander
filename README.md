@@ -8,15 +8,7 @@ Contact me directly by email at [TinA@CBSNews.com](mailto:TinA@CBSNews.com) or c
 
 Need to reach me securely? I use a different number (+1 202-817-6133) specifically for [Signal](https://signal.org/) and [WhatsApp](https://www.whatsapp.com/).
 
-If you want to tell me something anonymously, I will respect your request. Want to tell me something on "background"? I follow AP's [definitions](https://www.ap.org/about/news-values-and-principles/telling-the-story/anonymous-sources) on this:
-
-> _On the record. The information can be used with no caveats, quoting the source by name._
-> 
-> _Off the record. The information cannot be used for publication._
-> 
-> _Background. The information can be published but only under conditions negotiated with the source. Generally, the sources do not want their names published but will agree to a description of their position._
->
-> _In general, information obtained under any of these circumstances can be pursued with other sources to be placed on the record._
+If you want to tell me something anonymously, I will respect your request. 
 
 ## Why I'm on Github
 
