@@ -6,7 +6,7 @@ Alexander Tin is a staff digital reporter for CBS News covering federal public h
 
 Contact me directly by email at [TinA@CBSNews.com](mailto:TinA@CBSNews.com) or cell phone at +1 202-381-7107. 
 
-Need to reach me securely? I use a different number (+1 202-817-6133) specifically for [Signal](https://signal.org/) and [WhatsApp](https://www.whatsapp.com/).
+Need to reach me securely? Send me a message on [Signal](https://signal.org/). You can find me by my [username](https://support.signal.org/hc/en-us/articles/6712070553754-Phone-Number-Privacy-and-Usernames#username_start_chat): **@alexandertin.39**
 
 If you want to tell me something anonymously, I will respect your request. 
 
