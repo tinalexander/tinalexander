@@ -32,4 +32,4 @@ I've also signed up for accounts here, though am not updating them frequently:
 - Spoutible: [https://spoutible.com/alexander_tin](https://spoutible.com/alexander_tin)
 - Substack: [https://substack.com/profile/10080259-alexander-tin](https://substack.com/profile/10080259-alexander-tin)
 
-You can see a list of some articles I've written [here](https://tinalexander.github.io/notes/2023/articles).
+You can see a list of some articles I've written [here](https://tinalexander.github.io/notes/2024/articles).
