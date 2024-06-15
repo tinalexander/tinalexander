@@ -21,6 +21,7 @@ Here are some websites where you can find me posting actively:
 - BlueSky: [https://bsky.app/profile/alexander-a-tin.bsky.social](https://bsky.app/profile/alexander-a-tin.bsky.social)
 - Threads: [https://www.threads.net/@alexander_a_tin](https://www.threads.net/@alexander_a_tin)
 - Twitter: [https://twitter.com/Alexander_Tin](https://twitter.com/Alexander_Tin)
+- YouTube: [https://www.youtube.com/channel/UCzmJShFe7LwYgXqV8II_IYA](https://www.youtube.com/channel/UCzmJShFe7LwYgXqV8II_IYA)
 
 I've also signed up for accounts here, though am not updating them frequently:
 
