@@ -19,9 +19,7 @@ I'm not a programmer, but Github has still been useful for staying up to date wi
 Here are some websites where you can find me posting actively:
 
 - BlueSky: [https://bsky.app/profile/alexander-a-tin.bsky.social](https://bsky.app/profile/alexander-a-tin.bsky.social)
-- Threads: [https://www.threads.net/@alexander_a_tin](https://www.threads.net/@alexander_a_tin)
 - Twitter: [https://twitter.com/Alexander_Tin](https://twitter.com/Alexander_Tin)
-- YouTube: [https://www.youtube.com/channel/UCzmJShFe7LwYgXqV8II_IYA](https://www.youtube.com/channel/UCzmJShFe7LwYgXqV8II_IYA)
 
 I've also signed up for accounts here, though am not updating them frequently:
 
@@ -32,5 +30,7 @@ I've also signed up for accounts here, though am not updating them frequently:
 - Reddit: [https://www.reddit.com/user/alexander_sn](https://www.reddit.com/user/alexander_sn)
 - Spoutible: [https://spoutible.com/alexander_tin](https://spoutible.com/alexander_tin)
 - Substack: [https://substack.com/profile/10080259-alexander-tin](https://substack.com/profile/10080259-alexander-tin)
+- Threads: [https://www.threads.net/@alexander_a_tin](https://www.threads.net/@alexander_a_tin)
+- YouTube: [https://www.youtube.com/channel/UCzmJShFe7LwYgXqV8II_IYA](https://www.youtube.com/channel/UCzmJShFe7LwYgXqV8II_IYA)
 
 You can see a list of some articles I've written [here](https://tinalexander.github.io/notes/2024/articles).
