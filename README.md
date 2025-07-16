@@ -4,4 +4,4 @@ Alexander Tin was a staff digital reporter for CBS News covering federal public 
 
 ## Why I'm on Github
 
-I'm not a programmer, but Github was useful for staying up to date with experts in my beat about everything from [SARS-CoV-2 variants](https://github.com/neherlab/SARS-CoV-2_variant-reports/) to [disease forecasting](https://github.com/reichlab/covid19-forecast-hub). I used it to keep [notes](https://tinalexander.github.io/notes/) about what I'm covering. 
+I'm not a programmer, but Github was useful for staying up to date with experts in my beat about everything from [SARS-CoV-2 variants](https://github.com/neherlab/SARS-CoV-2_variant-reports/) to [disease forecasting](https://github.com/reichlab/covid19-forecast-hub). I used it to keep [notes](https://tinalexander.github.io/) about what I'm covering. 
