@@ -1,8 +1,6 @@
 ## About me
 
-[Alexander Tin](https://www.linkedin.com/in/alextin/) was a staff digital reporter for CBS News covering federal public health agencies based out of the network's Washington, D.C. bureau. 
-
-Previously, he was a campaign reporter for CBS News covering races for the 2020 cycle in Nevada, California, Arizona and New Mexico.
+[Alexander Tin](https://www.linkedin.com/in/alextin/) was a staff digital reporter for CBS News covering federal public health agencies based out of the network's Washington, D.C. bureau. Previously, he was a campaign reporter covering races for the 2020 cycle in Nevada, California, Arizona and New Mexico.
 
 ## Why I'm on Github
 
